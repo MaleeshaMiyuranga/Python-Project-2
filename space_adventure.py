@@ -1,3 +1,4 @@
+pip install -r requirements.txt
 import pygame
 import random
 import sys
